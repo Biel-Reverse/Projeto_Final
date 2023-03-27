@@ -1,7 +1,16 @@
-h1 { color: #00FF00;
+h1 { color: ##000000;
+background-image:url(../images/sobre-background.jpg);
+
 }
 h1 img {
 	
-		width: 300px;
+		width: 250px;
 		height:150px;
+		position:absolute;
+		top:20;
+		
+}
+h2{
+	border-bottom:5px solid #333333;
+		margin-top:30px;
 }
